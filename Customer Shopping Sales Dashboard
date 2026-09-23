@@ -1,0 +1,72 @@
+# Customer Shopping Sales Dashboard
+
+## Project Overview
+
+This project presents an interactive **Customer Shopping Sales Dashboard** designed to analyze customer purchasing behavior, store performance, product categories, payment methods, and monthly sales trends.
+
+The goal of this project is to transform raw retail sales data into clear and meaningful business insights that can support better decision-making.
+
+## Key Insights
+
+* **Total Sales:** $2.70M
+* **Total Invoices:** 1,014
+* **Total Units Sold:** 3,075
+* **Average Order Value:** $2,667
+* **Top Performing Mall:** Kanyon
+* **Top Category:** Clothing
+* **Most Used Payment Method:** Cash
+* **Female Customer Contribution:** 58.06%
+* **Peak Sales Months:** February and March
+
+## Analysis Performed
+
+### Sales Performance
+
+Analyzed total sales, invoices, units sold, and average order value to understand overall business performance.
+
+### Mall Performance
+
+Compared revenue across different malls and identified high-performing locations, with Kanyon generating the highest revenue.
+
+### Category Analysis
+
+Analyzed sales across product categories and identified Clothing as the leading category, followed by Technology and Shoes.
+
+### Payment Method Analysis
+
+Compared customer payment preferences across Cash, Credit Card, and Debit Card.
+
+### Customer Demographics
+
+Analyzed sales contribution by gender to understand customer purchasing patterns.
+
+### Monthly Sales Trends
+
+Analyzed monthly sales patterns to identify high-performing and lower-performing periods throughout the year.
+
+### Interactive Filtering
+
+Added mall-level filtering to allow users to explore KPIs and sales performance for individual locations.
+
+## Business Insights
+
+The dashboard provides insights that can help retail teams:
+
+* Understand customer purchasing behavior
+* Identify high-performing malls and product categories
+* Monitor monthly sales trends
+* Understand customer payment preferences
+* Support inventory planning
+* Improve marketing and promotional strategies
+
+## Tools & Skills
+
+* Tableau
+
+## Dashboard
+
+The dashboard provides an interactive view of key sales metrics, trends, customer behavior, and mall performance in a single report.
+
+## Conclusion
+
+This project helped strengthen my practical skills in **Tableau dashboard development, data visualization, data analysis, and business storytelling** by converting retail sales data into an interactive and decision-support dashboard.
